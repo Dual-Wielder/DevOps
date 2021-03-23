@@ -1,0 +1,6 @@
+def int enterNumber():
+	int first = 4;
+	int second = 5;
+	
+	int result = first + second;
+
